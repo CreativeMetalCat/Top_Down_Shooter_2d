@@ -4,6 +4,6 @@ Game is in the pre-pre-alhpa state<br/>
 ## game's engine: <br/>
 animation system(is only started)<br/>
 
-Gameplay elements(not started)<br/>
+## Gameplay elements(not started)<br/>
 
 
